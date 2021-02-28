@@ -12,7 +12,8 @@ class DomesticMelonOrder():
         self.shipped = False
         self.order_type = "domestic"
         self.tax = 0.08
-
+        self.hahaha
+ 
     def get_total(self):
         """Calculate price, including tax."""
 
